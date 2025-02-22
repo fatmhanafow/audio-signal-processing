@@ -28,7 +28,7 @@ Plot the original and filtered signals in both time and frequency domains.
 
 ## Repository Structure
 
-*** audio_files/:*** Contains the original and filtered audio files.
+### audio_files/: Contains the original and filtered audio files.
 
 original_audio.wav: The original audio signal.
 
@@ -74,3 +74,8 @@ high_pass_filtered_fft.png: Frequency-domain plot of the high-pass filtered sign
 ### Fourier Transform: Run fourier_transform.m to compute and visualize the Fourier Transform of the original signal.
 
 ### Filter in Frequency Domain: Run apply_filters_frequency_domain.m to apply filters in the frequency domain and observe the changes.
+
+Results
+Time-Domain Plots
+Original Signal:
+Original Signal
