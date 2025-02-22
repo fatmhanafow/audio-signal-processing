@@ -59,7 +59,7 @@ The project involves the following steps:
 
 
 - **Original Signal & Low-Pass Filtered Signal**:
-  ![Low-Pass Filtered Signal](https://github.com/user-attachments/assets/a020bd3e-91c7-4027-ae36-49d807705130){: width="50%"}
+  <img src="https://github.com/user-attachments/assets/a020bd3e-91c7-4027-ae36-49d807705130"width="400" />
 
 
 - **High-Pass Filtered Signal**:
