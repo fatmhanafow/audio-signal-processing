@@ -1,5 +1,5 @@
 # Audio Signal Processing with MATLAB
---
+
 This project focuses on analyzing and processing audio signals using MATLAB. The goal is to apply various filters (low-pass and high-pass) to an audio signal, analyze the results in both time and frequency domains, and visualize the effects using Fourier Transform.
 
 
@@ -59,7 +59,7 @@ low_pass_filtered_fft.png: Frequency-domain plot of the low-pass filtered signal
 
 high_pass_filtered_fft.png: Frequency-domain plot of the high-pass filtered signal.
 
-How to Run the Code
+# How to Run the Code
 Record Audio: Run record_audio.m to record your voice and save it as original_audio.wav.
 
 Apply Filters: Run low_pass_filter.m and high_pass_filter.m to apply the respective filters and save the filtered signals.
