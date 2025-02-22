@@ -76,17 +76,14 @@ The project involves the following steps:
 ### **Frequency-Domain Plots (FFT)**
 
 - **Original Signal FFT**:
-  ![Original F![fourier_transform_signal](https://github.com/user-attachments/assets/dfc50597-1d16-4054-8862-65fd58ccd71e)
-FT]
+  ![fourier_transform_signal](https://github.com/user-attachments/assets/dfc50597-1d16-4054-8862-65fd58ccd71e)
 
 - **Low-Pass Filtered FFT**:
- ![fourier_transform_low_pass_filtered_fixed](https://github.com/user-attachments/assets/7de46666-6875-440e-b252-b356c55961fa)
+  ![fourier_transform_low_pass_filtered_fixed](https://github.com/user-attachments/assets/7de46666-6875-440e-b252-b356c55961fa)
 
 
 - **High-Pass Filtered FFT**:
- 
-
----![fourier_transform_high_pass_filtered](https://github.com/user-attachments/assets/dc17810a-2d89-406c-9930-3fd6ceba5232)
+![fourier_transform_high_pass_filtered](https://github.com/user-attachments/assets/dc17810a-2d89-406c-9930-3fd6ceba5232)
 
 
 ### **Observations**
