@@ -56,30 +56,32 @@ The project involves the following steps:
 ## **Results**
 
 ### **Time-Domain Plots**
- - **Original signal & Low-Pass Filtered Signal**:
+- **Original signal & Low-Pass Filtered Signal**:
   <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/low_pass_plot.png" width="400" />
 
 
 - **High-Pass Filtered Signal**:
- ![high_pass_plot](https://github.com/user-attachments/assets/cd9936c6-b5e6-4cde-8421-20d18033f6cd)
+  <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/high_pass_plot.png" width="400" />
 
 
 - **Both Filters Applied**:
-
-![both_filters_applied_signal](https://github.com/user-attachments/assets/d10f5f3e-fda7-484f-99e2-608003fd2f10)
+- 
+  <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/both_filters_applied_signal.png" width="400" />
 
 ### **Frequency-Domain Plots (FFT)**
 
 - **Original Signal FFT**:
-  ![fourier_transform_signal](https://github.com/user-attachments/assets/dfc50597-1d16-4054-8862-65fd58ccd71e)
+
+  <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/fourier_transform_signal.png" width="400" />
 
 - **Low-Pass Filtered FFT**:
-  ![fourier_transform_low_pass_filtered_fixed](https://github.com/user-attachments/assets/7de46666-6875-440e-b252-b356c55961fa)
+
+  <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/fourier_transform_low_pass_filtered_fixed.png" width="400" />
 
 
 - **High-Pass Filtered FFT**:
-![fourier_transform_high_pass_filtered](https://github.com/user-attachments/assets/dc17810a-2d89-406c-9930-3fd6ceba5232)
 
+  <img src="https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/fourier_transform_high_pass_filtered.png" width="400" />
 
 ### **Observations**
 
@@ -102,13 +104,3 @@ The project involves the following steps:
 - MATLAB Documentation: [https://www.mathworks.com/help/matlab/](https://www.mathworks.com/help/matlab/)
 
 ---
-
-### **How to Add Images and Audio Files to GitHub**
-
-1. **Save Your Plots**: After generating the plots in MATLAB, save them as `.png` files in the `plots/` folder.
-2. **Save Your Audio Files**: Save the filtered audio files (e.g., `low_pass_filtered.wav`) in the `audio_files/` folder.
-3. **Upload to GitHub**: Push the `plots/` and `audio_files/` folders along with their contents to your GitHub repository.
-4. **Link in README**: Use the following Markdown syntax to embed images and link audio files:
-   ```markdown
-   ![Description](path/to/image.png)
-   [Audio File](path/to/audio.wav)
