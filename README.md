@@ -61,7 +61,7 @@ The project involves the following steps:
   ![Original Signal](plots/original_signal.png)
 
 - **Low-Pass Filtered Signal**:
-  ![Low-Pass Filtered Signal](plots/low_pass_filtered_signal.png)
+  ![Low-Pass Filtered Signal](https://github.com/fatmhanafow/repository-name/blob/main/plots/low_pass_plot.png)
 
 - **High-Pass Filtered Signal**:
   ![High-Pass Filtered Signal](plots/high_pass_filtered_signal.png)
