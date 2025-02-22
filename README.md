@@ -1,5 +1,7 @@
-##**Audio Signal Processing with MATLAB**
+#**Audio Signal Processing with MATLAB*
+--
 This project focuses on analyzing and processing audio signals using MATLAB. The goal is to apply various filters (low-pass and high-pass) to an audio signal, analyze the results in both time and frequency domains, and visualize the effects using Fourier Transform.
+
 
 Project Overview
 The project involves the following steps:
