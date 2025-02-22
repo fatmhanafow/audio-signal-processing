@@ -70,20 +70,24 @@ The project involves the following steps:
 
 
 - **Both Filters Applied**:
-  ![Both Filters Applied](plots/both_filters_applied_signal.png)
+
+![both_filters_applied_signal](https://github.com/user-attachments/assets/d10f5f3e-fda7-484f-99e2-608003fd2f10)
 
 ### **Frequency-Domain Plots (FFT)**
 
 - **Original Signal FFT**:
-  ![Original FFT](plots/original_fft.png)
+  ![Original F![fourier_transform_signal](https://github.com/user-attachments/assets/dfc50597-1d16-4054-8862-65fd58ccd71e)
+FT]
 
 - **Low-Pass Filtered FFT**:
-  ![Low-Pass Filtered FFT](plots/low_pass_filtered_fft.png)
+ ![fourier_transform_low_pass_filtered_fixed](https://github.com/user-attachments/assets/7de46666-6875-440e-b252-b356c55961fa)
+
 
 - **High-Pass Filtered FFT**:
-  ![High-Pass Filtered FFT](plots/high_pass_filtered_fft.png)
+ 
 
----
+---![fourier_transform_high_pass_filtered](https://github.com/user-attachments/assets/dc17810a-2d89-406c-9930-3fd6ceba5232)
+
 
 ### **Observations**
 
