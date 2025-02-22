@@ -62,10 +62,12 @@ The project involves the following steps:
 
 
 - **Low-Pass Filtered Signal**:
-  ![Low-Pass Filtered Signal](https://github.com/fatmhanafow/audio-signal-processing/raw/main/plots/low_pass_plot.png)
+  ![Low-Pass Filtered Signal](https://github.com/user-attachments/assets/a020bd3e-91c7-4027-ae36-49d807705130)
+
 
 - **High-Pass Filtered Signal**:
-  ![High-Pass Filtered Signal](plots/high_pass_filtered_signal.png)
+ ![high_pass_plot](https://github.com/user-attachments/assets/cd9936c6-b5e6-4cde-8421-20d18033f6cd)
+
 
 - **Both Filters Applied**:
   ![Both Filters Applied](plots/both_filters_applied_signal.png)
