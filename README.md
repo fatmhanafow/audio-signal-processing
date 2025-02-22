@@ -57,12 +57,9 @@ The project involves the following steps:
 
 ### **Time-Domain Plots**
 
-- **Original Signal**:
-  ![Original Signal](plots/original_signal.png)
 
-
-- **Low-Pass Filtered Signal**:
-  ![Low-Pass Filtered Signal](https://github.com/user-attachments/assets/a020bd3e-91c7-4027-ae36-49d807705130)
+- **Original Signal & Low-Pass Filtered Signal**:
+  ![Low-Pass Filtered Signal](https://github.com/user-attachments/assets/a020bd3e-91c7-4027-ae36-49d807705130){: width="50%"}
 
 
 - **High-Pass Filtered Signal**:
